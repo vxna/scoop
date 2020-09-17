@@ -1,0 +1,14 @@
+{
+  "homepage": "https://www.7-zip.org/",
+  "description": "A multi-format file archiver with high compression ratios",
+  "license": {
+    "identifier": "LGPL-2.0-only,BSD-3-Clause",
+    "url": "https://www.7-zip.org/license.txt"
+  },
+  "version": "19.00",
+  "url": "https://downloads.sourceforge.net/project/sevenzip/7-Zip/19.00/7z1900-x64.msi",
+  "hash": "sha1:d0dc016df5f9f9bf1a57b57db0e9e82f097b02b6",
+  "extract_dir": "Files/7-Zip",
+  "bin": "7z.exe",
+  "shortcuts": [["7zFM.exe", "7-Zip"]]
+}
